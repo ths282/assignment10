@@ -13,6 +13,7 @@
   <licenses>
     <license>
       <name>MIT</name>
+      <url>LICENSE.md</url>
     </license>
   </licenses>
   <organization>
@@ -23,7 +24,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <!-- We define here our own variable "java.version" so that we need to adjust it only in the next line and all other lines can use it then -->
-    <java.version>17</java.version>
+    <java.version>11</java.version>
     <maven.compiler.source>${java.version}</maven.compiler.source>
     <maven.compiler.target>${java.version}</maven.compiler.target>
     <maven.compiler.release>${java.version}</maven.compiler.release>
@@ -90,7 +91,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.0.0</version>
         <configuration>
-          <mainClass>is.hi.hbv202g.ass9.composite.Main</mainClass>
+          <mainClass>is/hi/hbv202g/ass9/CompositeMain.java</mainClass>
         </configuration>
       </plugin>
     </plugins>

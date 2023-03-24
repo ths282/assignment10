@@ -1,6 +1,7 @@
 package is.hi.hbv202g.ass9;
 
-import is.hi.hbv202g.ass9.composite.*;
+import is.hi.hbv202g.ass9.compositeLeafObservedTemplateMethod.*;
+
 
 public class CompositeMain {
 
