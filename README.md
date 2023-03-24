@@ -1,4 +1,4 @@
-# HBV202GAssignment9
+# HBV202G Assignment 10
 A project skeleton for implementing the composite pattern and the observer pattern (and some sort of template method pattern) based on tests using JUnit4.
 
 ## Installation
@@ -26,7 +26,7 @@ Maven:
 
 ## Documentation
 
-[Link to docs](src/site/markdown)
+[Link to docs](src/site/markdown/documentation.md)
 
 ## License
 
